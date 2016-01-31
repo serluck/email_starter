@@ -1,0 +1,27 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "Base email Template for Email marketing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serluck/email.git"
+  },
+  "author": "Sergey Lukianchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serluck/email/issues"
+  },
+  "homepage": "https://github.com/serluck/email#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-cssnano": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp-email-builder": "^1.0.4"
+  }
+}

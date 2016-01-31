@@ -1,0 +1,32 @@
+	@media screen and (max-width:700px){
+		* [lang=x-outer]{
+			width: 320px !important;
+			-moz-box-sizing: border-box;
+				box-sizing: border-box;
+		}
+	  img {
+	  	margin: 0 auto;
+    	display: block;
+		max-width:100% !important;
+	  }
+	  .menu {
+	      margin-top: 20px !important;
+	      margin-bottom: 11px !important;
+	  }
+	  .phone_menu {
+	  	margin-top: 6px !important;
+	  	float: none !important;
+	  	text-align: center !important;
+	  }
+	  .support ul {
+	  	margin: 0 !important;
+	  }
+	  .support__company {
+	  	display: none;
+	  }
+	  .benefits__table td {
+	  	width: 50% !important;
+	  	padding-bottom: 34px !important;
+	  	text-align: center !important;
+	  }
+	}
