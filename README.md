@@ -1,6 +1,6 @@
 # email_starter
 Basic html email Template for email marketing
-list of resources (reed before start!!):
+##list of resources (reed before start!!):
 1. Email Client CSS Support
 	- [A list of universally supported HTML and CSS](http://www.emailology.org/#3)
 	- [mailchimp list](http://templates.mailchimp.com/resources/email-client-css-support/)
